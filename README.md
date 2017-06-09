@@ -1,6 +1,6 @@
 * 引入饿了么组件
 1. 安装：
-npm install element-ui --save-dev
+npm install element-ui --save-dev  
 npm install element-theme-default --save-dev
 2. main.js 添加：
 ```
