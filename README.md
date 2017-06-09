@@ -1,4 +1,13 @@
-# vue-audio-player
+* 引入饿了么组件
+1. 安装：
+npm install element-ui --save-dev
+npm install element-theme-default --save-dev
+2. main.js 添加：
+```
+import ElementUI from 'element-ui'
+import 'element-ui/lib/theme-default/index.css'
+Vue.use(ElementUI)
+```
 
 > A Vue.js project
 
