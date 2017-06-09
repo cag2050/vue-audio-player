@@ -5,7 +5,8 @@ npm install element-theme-default --save-dev
 2. main.js 添加：
 ```
 import ElementUI from 'element-ui'
-import 'element-ui/lib/theme-default/index.css'
+import 'element-ui/lib/theme-default/index.css'  
+
 Vue.use(ElementUI)
 ```
 
