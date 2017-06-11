@@ -1,3 +1,8 @@
+* 使用 vue-cli 构建，命令
+```
+vue init webpack [project-name]
+```
+
 * 引入饿了么组件
 1. 安装：  
 npm install element-ui --save-dev  
