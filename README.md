@@ -1,3 +1,5 @@
+* 组件所在路径：src/components/VueAudioPlayer.vue
+
 * 使用 vue-cli 构建，命令
 ```
 vue init webpack [project-name]
